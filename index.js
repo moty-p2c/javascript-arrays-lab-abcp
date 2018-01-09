@@ -1,4 +1,6 @@
 const app = "I don't do much."
 let kittens = ["Milo", "Otis", "Garfiels"];
 
-function 
+function destructivelyAppendKitten(newCat){
+  
+}
